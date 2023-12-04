@@ -3,3 +3,6 @@ A portfolio website is a digital platform designed to showcase and highlight the
 
 
 ![home](https://github.com/aashexsh07/PRODIGY_WD_04/assets/151196898/e9505133-c158-4101-8258-39dfdb9e302f)
+![about](https://github.com/aashexsh07/PRODIGY_WD_04/assets/151196898/b51a9735-8314-4111-87ca-a5d37d440635)
+![phto](https://github.com/aashexsh07/PRODIGY_WD_04/assets/151196898/e5f927d7-ccdc-4b6c-86f8-fb5f36731b41)
+![contact](https://github.com/aashexsh07/PRODIGY_WD_04/assets/151196898/e4c895d0-1988-4eb9-b7c4-cd2435a713ce)
